@@ -1,2 +1,2 @@
 # android-attendance
-application for attendance at work
+Evidence of attendance on workplace. This is mobile part of ERP.
